@@ -11,13 +11,13 @@ The system should be able to search for available seats for a specific scheduled
 
 Relationships: 
  
-•	One cinema hall can have multiple rows. 
-•	One row can have multiple seats. 
-•	One seat can belong to only one row. 
-•	One customer can make multiple reservations. 
-•	One reservation can only belong to one customer. 
-•	One movie can have multiple scheduled movies. 
-•	One scheduled movie can only belong to one movie. 
-•	One scheduled movie can only be shown in one cinema hall. 
-•	One seat can be reserved for only one reservation. 
+•	One cinema hall can have multiple rows. <br />
+•	One row can have multiple seats. <br />
+•	One seat can belong to only one row. <br />
+•	One customer can make multiple reservations. <br />
+•	One reservation can only belong to one customer. <br />
+•	One movie can have multiple scheduled movies. <br />
+•	One scheduled movie can only belong to one movie. <br />
+•	One scheduled movie can only be shown in one cinema hall. <br />
+•	One seat can be reserved for only one reservation.<br /> 
 •	One movie can have multiple reservations. 
